@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brunofazardolima.github.io/site-dra-bianca/sitemap.xml

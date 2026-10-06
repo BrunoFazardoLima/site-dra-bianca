@@ -1,0 +1,25 @@
+SITE DEMONSTRATIVO — DRA. BIANCA ANDRADE
+
+Conteúdo do pacote
+- index.html: página principal
+- styles.css: identidade visual e responsividade
+- script.js: menu para celular e interações
+- assets/: imagem otimizada do site
+- robots.txt e sitemap.xml: arquivos básicos de SEO
+
+Como publicar no GitHub Pages
+1. Crie um repositório público chamado site-dra-bianca na conta BrunoFazardoLima.
+2. Envie todo o conteúdo desta pasta para a raiz do repositório.
+3. Abra Settings > Pages no repositório.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Selecione a branch main, a pasta /(root) e clique em Save.
+6. Aguarde a publicação em:
+   https://brunofazardolima.github.io/site-dra-bianca/
+
+Antes da publicação oficial
+1. Confirme CRO, endereço, telefone e horários com a profissional.
+2. Substitua os avisos de demonstração pelos dados validados.
+3. Atualize o endereço canônico, sitemap e metadados caso conecte um domínio definitivo.
+4. Obtenha autorização para usar fotos, depoimentos e marcas da profissional.
+
+O site atual usa uma imagem original criada exclusivamente para esta demonstração.
